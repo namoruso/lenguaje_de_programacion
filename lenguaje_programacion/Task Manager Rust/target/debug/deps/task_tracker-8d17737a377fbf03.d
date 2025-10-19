@@ -1,0 +1,15 @@
+C:\Users\Nick\Music\lenguaje_programacion\Task Manager Rust\target\debug\deps\task_tracker-8d17737a377fbf03.d: src\lib.rs src\operations\mod.rs src\operations\add.rs src\operations\delete.rs src\operations\list.rs src\operations\status.rs src\operations\update.rs src\storage.rs src\types.rs
+
+C:\Users\Nick\Music\lenguaje_programacion\Task Manager Rust\target\debug\deps\libtask_tracker-8d17737a377fbf03.rlib: src\lib.rs src\operations\mod.rs src\operations\add.rs src\operations\delete.rs src\operations\list.rs src\operations\status.rs src\operations\update.rs src\storage.rs src\types.rs
+
+C:\Users\Nick\Music\lenguaje_programacion\Task Manager Rust\target\debug\deps\libtask_tracker-8d17737a377fbf03.rmeta: src\lib.rs src\operations\mod.rs src\operations\add.rs src\operations\delete.rs src\operations\list.rs src\operations\status.rs src\operations\update.rs src\storage.rs src\types.rs
+
+src\lib.rs:
+src\operations\mod.rs:
+src\operations\add.rs:
+src\operations\delete.rs:
+src\operations\list.rs:
+src\operations\status.rs:
+src\operations\update.rs:
+src\storage.rs:
+src\types.rs:
