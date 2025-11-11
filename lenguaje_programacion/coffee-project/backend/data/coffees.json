@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Espresso",
+    "description": "Café concentrado y fuerte",
+    "price": 2.50,
+    "image": "/images/espresso.png"
+  },
+  {
+    "id": 2,
+    "name": "Cappuccino",
+    "description": "Espresso con leche espumosa",
+    "price": 3.50,
+    "image": "/images/cappuccino.png"
+  },
+  {
+    "id": 3,
+    "name": "Latte",
+    "description": "Café suave con mucha leche",
+    "price": 4.00,
+    "image": "/images/latte.png"
+  },
+  {
+    "id": 4,
+    "name": "Americano",
+    "description": "Espresso con agua caliente",
+    "price": 2.80,
+    "image": "/images/americano.png"
+  },
+  {
+    "id": 5,
+    "name": "Mocha",
+    "description": "Café con chocolate",
+    "price": 4.50,
+    "image": "/images/mocha.png"
+  }
+]
